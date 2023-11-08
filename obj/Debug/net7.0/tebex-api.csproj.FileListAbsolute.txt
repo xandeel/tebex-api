@@ -1,0 +1,14 @@
+G:\cyber seguridad\tebex-api\obj\Debug\net7.0\tebex-api.GeneratedMSBuildEditorConfig.editorconfig
+G:\cyber seguridad\tebex-api\obj\Debug\net7.0\tebex-api.AssemblyInfoInputs.cache
+G:\cyber seguridad\tebex-api\obj\Debug\net7.0\tebex-api.AssemblyInfo.cs
+G:\cyber seguridad\tebex-api\obj\Debug\net7.0\tebex-api.csproj.CoreCompileInputs.cache
+G:\cyber seguridad\tebex-api\bin\Debug\net7.0\tebex-api.exe
+G:\cyber seguridad\tebex-api\bin\Debug\net7.0\tebex-api.deps.json
+G:\cyber seguridad\tebex-api\bin\Debug\net7.0\tebex-api.runtimeconfig.json
+G:\cyber seguridad\tebex-api\bin\Debug\net7.0\tebex-api.dll
+G:\cyber seguridad\tebex-api\bin\Debug\net7.0\tebex-api.pdb
+G:\cyber seguridad\tebex-api\obj\Debug\net7.0\tebex-api.dll
+G:\cyber seguridad\tebex-api\obj\Debug\net7.0\refint\tebex-api.dll
+G:\cyber seguridad\tebex-api\obj\Debug\net7.0\tebex-api.pdb
+G:\cyber seguridad\tebex-api\obj\Debug\net7.0\tebex-api.genruntimeconfig.cache
+G:\cyber seguridad\tebex-api\obj\Debug\net7.0\ref\tebex-api.dll
